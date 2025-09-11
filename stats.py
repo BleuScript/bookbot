@@ -1,5 +1,3 @@
-from operator import itemgetter
-
 def get_count(txt):
     words = txt.split()
     count = len(words)
